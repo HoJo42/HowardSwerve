@@ -10,4 +10,5 @@ public class Constants {
 
     public final static double maxWheelSpeed = 5.2;
     public final static double maxAngleSpeed = 6.28;
+    public static int driverControllerPort = 0;
 }
